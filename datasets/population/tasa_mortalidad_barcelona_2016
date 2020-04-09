@@ -1,0 +1,74 @@
+Any,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,Taxa_mil_hab
+2016,1,Ciutat Vella,1,el Raval,6.3
+2016,1,Ciutat Vella,2,el Barri Gòtic,7.2
+2016,1,Ciutat Vella,3,la Barceloneta,12.5
+2016,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",8.7
+2016,2,Eixample,5,el Fort Pienc,10.5
+2016,2,Eixample,6,la Sagrada Família,10.0
+2016,2,Eixample,7,la Dreta de l'Eixample,11.2
+2016,2,Eixample,8,l'Antiga Esquerra de l'Eixample,10.3
+2016,2,Eixample,9,la Nova Esquerra de l'Eixample,9.3
+2016,2,Eixample,10,Sant Antoni,9.3
+2016,3,Sants-Montjuïc,11,el Poble Sec,8.5
+2016,3,Sants-Montjuïc,12,la Marina del Prat Vermell,14.0
+2016,3,Sants-Montjuïc,13,la Marina de Port,8.3
+2016,3,Sants-Montjuïc,14,la Font de la Guatlla,10.2
+2016,3,Sants-Montjuïc,15,Hostafrancs,8.5
+2016,3,Sants-Montjuïc,16,la Bordeta,9.6
+2016,3,Sants-Montjuïc,17,Sants - Badal,8.4
+2016,3,Sants-Montjuïc,18,Sants,9.2
+2016,4,Les Corts,19,les Corts,9.7
+2016,4,Les Corts,20,la Maternitat i Sant Ramon,8.5
+2016,4,Les Corts,21,Pedralbes,9.6
+2016,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",11.4
+2016,5,Sarrià-Sant Gervasi,23,Sarrià,10.5
+2016,5,Sarrià-Sant Gervasi,24,les Tres Torres,8.7
+2016,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,11.1
+2016,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,8.8
+2016,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,8.1
+2016,6,Gràcia,28,Vallcarca i els Penitents,9.7
+2016,6,Gràcia,29,el Coll,8.9
+2016,6,Gràcia,30,la Salut,10.6
+2016,6,Gràcia,31,la Vila de Gràcia,9.6
+2016,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,10.6
+2016,7,Horta-Guinardó,33,el Baix Guinardó,14.6
+2016,7,Horta-Guinardó,34,Can Baró,10.0
+2016,7,Horta-Guinardó,35,el Guinardó,9.8
+2016,7,Horta-Guinardó,36,la Font d'en Fargues,9.0
+2016,7,Horta-Guinardó,37,el Carmel,8.9
+2016,7,Horta-Guinardó,38,la Teixonera,8.8
+2016,7,Horta-Guinardó,39,Sant Genís dels Agudells,11.7
+2016,7,Horta-Guinardó,40,Montbau,19.0
+2016,7,Horta-Guinardó,41,la Vall d'Hebron,11.6
+2016,7,Horta-Guinardó,42,la Clota,10.3
+2016,7,Horta-Guinardó,43,Horta,11.8
+2016,8,Nou Barris,44,Vilapicina i la Torre Llobeta,10.8
+2016,8,Nou Barris,45,Porta,9.9
+2016,8,Nou Barris,46,el Turó de la Peira,11.4
+2016,8,Nou Barris,47,Can Peguera,9.3
+2016,8,Nou Barris,48,la Guineueta,9.6
+2016,8,Nou Barris,49,Canyelles,8.8
+2016,8,Nou Barris,50,les Roquetes,7.6
+2016,8,Nou Barris,51,Verdun,9.6
+2016,8,Nou Barris,52,la Prosperitat,10.0
+2016,8,Nou Barris,53,la Trinitat Nova,14.3
+2016,8,Nou Barris,54,Torre Baró,4.7
+2016,8,Nou Barris,55,Ciutat Meridiana,6.4
+2016,8,Nou Barris,56,Vallbona,18.5
+2016,9,Sant Andreu,57,la Trinitat Vella,6.2
+2016,9,Sant Andreu,58,Baró de Viver,10.0
+2016,9,Sant Andreu,59,el Bon Pastor,8.1
+2016,9,Sant Andreu,60,Sant Andreu,8.4
+2016,9,Sant Andreu,61,la Sagrera,8.5
+2016,9,Sant Andreu,62,el Congrés i els Indians,12.7
+2016,9,Sant Andreu,63,Navas,9.1
+2016,10,Sant Martí,64,el Camp de l'Arpa del Clot,10.1
+2016,10,Sant Martí,65,el Clot,7.5
+2016,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,8.3
+2016,10,Sant Martí,67,la Vila Olímpica del Poblenou,3.7
+2016,10,Sant Martí,68,el Poblenou,8.1
+2016,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,5.7
+2016,10,Sant Martí,70,el Besòs i el Maresme,9.0
+2016,10,Sant Martí,71,Provençals del Poblenou,6.7
+2016,10,Sant Martí,72,Sant Martí de Provençals,10.5
+2016,10,Sant Martí,73,la Verneda i la Pau,10.8
